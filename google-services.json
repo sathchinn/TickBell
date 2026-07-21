@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758126408457",
+    "project_id": "tickbell",
+    "storage_bucket": "tickbell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758126408457:android:f64cbfa3e809a84601d9d8",
+        "android_client_info": {
+          "package_name": "com.example.tickbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNh6U-ZLr4D4PbJtmcMC7fWS-3RkbtCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
